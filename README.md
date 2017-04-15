@@ -1,3 +1,7 @@
+# Update:
+
+This is my own custom build of recon-ng with custom built modules, integrations, etc for enterprise testing that I've performed. Due to the large number of clients as well as advanced reporting, certificate usage, and other things found in different environments Metasploit was found to be lacking. This build integrates what I use from Metasploit into recon-ng as well as other custom scripts and tools.
+
 # Recon-ng
 
 Recon-ng is a full-featured Web Reconnaissance framework written in Python. Complete with independent modules, database interaction, built in convenience functions, interactive help, and command completion, Recon-ng provides a powerful environment in which open source web-based reconnaissance can be conducted quickly and thoroughly.
@@ -15,4 +19,3 @@ Consulting | Research | Development | Training
 ## Donations
 
 Recon-ng is free software. However, large amounts of time and effort go into its continued development. If you are interested in financialy supporting the development of Recon-ng, please send your donation to tjt1980[at]gmail.com via PayPal. Thank you.
-# recon-ng
